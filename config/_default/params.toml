@@ -26,7 +26,7 @@ logo = ""
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-highlight = true
+highlight = false
 # highlight_languages = ["r"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "r.zhang@fs.de"
-phone = "888 888 88 88"
+phone = "+1-6177178045"
 address = "Adickesallee 32-34, Frankfurt School, Frankfurt am Main, Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
