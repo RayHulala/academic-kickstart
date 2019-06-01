@@ -18,7 +18,9 @@ organizations:
   url: "https://www.frankfurt-school.de/en/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ruishen Zhang is a Ph.D. candidate at the Accounting Department of Frankfurt School of Finance and Management. His research interests include financial accounting, information production in capital markets, corporate governance, cross-discipline research (on linguistic and culture), and political economy of finance and accounting.
+bio: Ruishen Zhang is a Ph.D. candidate at the Accounting Department of Frankfurt School of Finance and Management. His research interests include financial accounting, information production in capital markets, corporate governance, cross-discipline research (on linguistic and culture), and political economy of finance and accounting.<br>
+
+Ruishen will be on 2019 accounting job market.
 
 interests:
 - Capital markets
